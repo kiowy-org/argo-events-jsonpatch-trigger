@@ -1,0 +1,2 @@
+# Argo Events - JSONPatch trigger
+
