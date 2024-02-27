@@ -3,7 +3,9 @@
 */
 syntax = "proto3";
 
-package triggers;
+package triggers_proto;
+
+option go_package = "github.com/kiowy-org/argo-events-jsonpatch-trigger/proto";
 
 // Trigger offers services to build a custom trigger
 service Trigger {
